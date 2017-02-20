@@ -7,3 +7,4 @@ this is to test the pull command in git
 welcome back
 Good morning and do practice on git repository.
 okay done.
+new line to test new repository.
