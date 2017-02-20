@@ -1,0 +1,48 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="run-configuration-type">
+      <project id="testapp" values="AndroidRunConfigurationType" collectionTime="1484592293526" />
+      <project id="MyApplication" values="AndroidRunConfigurationType" collectionTime="1478576593283" />
+      <project id="MyApplication3" values="AndroidRunConfigurationType" collectionTime="1484589010435" />
+      <project id="MyApplication2" values="AndroidRunConfigurationType" collectionTime="1478576587250" />
+    </group>
+    <group name="module type">
+      <project id="testapp" values="JAVA_MODULE" collectionTime="1484592293452" />
+      <project id="MyApplication" values="JAVA_MODULE" collectionTime="1478576593282" />
+      <project id="MyApplication3" values="JAVA_MODULE" collectionTime="1484589010416" />
+      <project id="MyApplication2" values="JAVA_MODULE" collectionTime="1478576587245" />
+    </group>
+    <group name="file-type">
+      <project id="testapp" values="JAVA,XML,ARCHIVE,UNKNOWN,Properties,IDEA_MODULE,AIDL,Groovy,ProGuard File,PLAIN_TEXT,Images" collectionTime="1484592297395" />
+      <project id="MyApplication" values="IDEA_MODULE,Images,ProGuard File,JAVA,Groovy,UNKNOWN,PLAIN_TEXT,AIDL,ARCHIVE,Properties,XML" collectionTime="1478576593374" />
+      <project id="MyApplication3" values="XML,ProGuard File,Images,ARCHIVE,Groovy,JAVA,UNKNOWN,AIDL,PLAIN_TEXT,IDEA_MODULE,Properties" collectionTime="1484589010761" />
+      <project id="MyApplication2" values="PLAIN_TEXT,ProGuard File,Properties,UNKNOWN,JAVA,AIDL,IDEA_MODULE,Images,XML,Groovy,ARCHIVE" collectionTime="1478576587401" />
+    </group>
+    <group name="Git">
+      <project id="testapp" values="config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.force.push.enabled" collectionTime="1484592300978" />
+      <project id="MyApplication" values="config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.save.policy.STASH,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled" collectionTime="1478576593376" />
+      <project id="MyApplication3" values="config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.ssh.enabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.force.push.enabled" collectionTime="1484589011380" />
+      <project id="MyApplication2" values="config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.push.update.all.roots.enabled,config.save.policy.STASH" collectionTime="1478576587670" />
+    </group>
+    <group name="frameworks">
+      <project id="testapp" values="java-gradle,android-gradle,android" collectionTime="1484592293407" />
+      <project id="MyApplication" values="java-gradle,android-gradle,android" collectionTime="1478576593282" />
+      <project id="MyApplication3" values="android,android-gradle,java-gradle" collectionTime="1484589010416" />
+      <project id="MyApplication2" values="java-gradle,android,android-gradle" collectionTime="1478576587245" />
+    </group>
+    <group name="language-level">
+      <project id="testapp" values="JDK_1_7" collectionTime="1484592300435" />
+      <project id="MyApplication" values="JDK_1_7,JDK_1_8" collectionTime="1478576593376" />
+      <project id="MyApplication3" values="JDK_1_8,JDK_1_7" collectionTime="1484589011229" />
+      <project id="MyApplication2" values="JDK_1_7" collectionTime="1478576587618" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="execute.AndroidRunConfigurationType.Run" count="4" />
+      <entry feature="ideaapp.started" count="2" />
+      <entry feature="tips.of.the.day.next" count="11" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="1" />
+    </counts>
+  </component>
+</application>

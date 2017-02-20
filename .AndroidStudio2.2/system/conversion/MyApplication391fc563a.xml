@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-native-run-configurations" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Kalyan Goud\AndroidStudioProjects\MyApplication3\.idea\compiler.xml" timestamp="1484588655109" />
+    <file path="C:\Users\Kalyan Goud\AndroidStudioProjects\MyApplication3\.idea\copyright\profiles_settings.xml" timestamp="1484588655207" />
+    <file path="C:\Users\Kalyan Goud\AndroidStudioProjects\MyApplication3\.idea\gradle.xml" timestamp="1484588755151" />
+    <file path="C:\Users\Kalyan Goud\AndroidStudioProjects\MyApplication3\.idea\libraries\animated_vector_drawable_25_0_0.xml" timestamp="1484588952815" />
+    <file path="C:\Users\Kalyan Goud\AndroidStudioProjects\MyApplication3\.idea\libraries\appcompat_v7_25_0_0.xml" timestamp="1484588952859" />
+    <file path="C:\Users\Kalyan Goud\AndroidStudioProjects\MyApplication3\.idea\libraries\espresso_core_2_2_2.xml" timestamp="1484588952928" />
+    <file path="C:\Users\Kalyan Goud\AndroidStudioProjects\MyApplication3\.idea\libraries\espresso_idling_resource_2_2_2.xml" timestamp="1484588952974" />
+    <file path="C:\Users\Kalyan Goud\AndroidStudioProjects\MyApplication3\.idea\libraries\exposed_instrumentation_api_publish_0_5.xml" timestamp="1484588953024" />
+    <file path="C:\Users\Kalyan Goud\AndroidStudioProjects\MyApplication3\.idea\libraries\hamcrest_core_1_3.xml" timestamp="1484588953090" />
+    <file path="C:\Users\Kalyan Goud\AndroidStudioProjects\MyApplication3\.idea\libraries\hamcrest_integration_1_3.xml" timestamp="1484588953196" />
+    <file path="C:\Users\Kalyan Goud\AndroidStudioProjects\MyApplication3\.idea\libraries\hamcrest_library_1_3.xml" timestamp="1484588953297" />
+    <file path="C:\Users\Kalyan Goud\AndroidStudioProjects\MyApplication3\.idea\libraries\javawriter_2_1_1.xml" timestamp="1484588953341" />
+    <file path="C:\Users\Kalyan Goud\AndroidStudioProjects\MyApplication3\.idea\libraries\javax_annotation_api_1_2.xml" timestamp="1484588953408" />
+    <file path="C:\Users\Kalyan Goud\AndroidStudioProjects\MyApplication3\.idea\libraries\javax_inject_1.xml" timestamp="1484588953498" />
+    <file path="C:\Users\Kalyan Goud\AndroidStudioProjects\MyApplication3\.idea\libraries\jsr305_2_0_1.xml" timestamp="1484588953583" />
+    <file path="C:\Users\Kalyan Goud\AndroidStudioProjects\MyApplication3\.idea\libraries\junit_4_12.xml" timestamp="1484588953642" />
+    <file path="C:\Users\Kalyan Goud\AndroidStudioProjects\MyApplication3\.idea\libraries\rules_0_5.xml" timestamp="1484588953696" />
+    <file path="C:\Users\Kalyan Goud\AndroidStudioProjects\MyApplication3\.idea\libraries\runner_0_5.xml" timestamp="1484588953743" />
+    <file path="C:\Users\Kalyan Goud\AndroidStudioProjects\MyApplication3\.idea\libraries\support_annotations_25_0_0.xml" timestamp="1484588953814" />
+    <file path="C:\Users\Kalyan Goud\AndroidStudioProjects\MyApplication3\.idea\libraries\support_compat_25_0_0.xml" timestamp="1484588953900" />
+    <file path="C:\Users\Kalyan Goud\AndroidStudioProjects\MyApplication3\.idea\libraries\support_core_ui_25_0_0.xml" timestamp="1484588953964" />
+    <file path="C:\Users\Kalyan Goud\AndroidStudioProjects\MyApplication3\.idea\libraries\support_core_utils_25_0_0.xml" timestamp="1484588954046" />
+    <file path="C:\Users\Kalyan Goud\AndroidStudioProjects\MyApplication3\.idea\libraries\support_fragment_25_0_0.xml" timestamp="1484588954103" />
+    <file path="C:\Users\Kalyan Goud\AndroidStudioProjects\MyApplication3\.idea\libraries\support_media_compat_25_0_0.xml" timestamp="1484588954173" />
+    <file path="C:\Users\Kalyan Goud\AndroidStudioProjects\MyApplication3\.idea\libraries\support_v4_25_0_0.xml" timestamp="1484588954227" />
+    <file path="C:\Users\Kalyan Goud\AndroidStudioProjects\MyApplication3\.idea\libraries\support_vector_drawable_25_0_0.xml" timestamp="1484588954308" />
+    <file path="C:\Users\Kalyan Goud\AndroidStudioProjects\MyApplication3\.idea\misc.xml" timestamp="1484588952574" />
+    <file path="C:\Users\Kalyan Goud\AndroidStudioProjects\MyApplication3\.idea\modules.xml" timestamp="1484588952613" />
+    <file path="C:\Users\Kalyan Goud\AndroidStudioProjects\MyApplication3\.idea\runConfigurations.xml" timestamp="1484588952736" />
+    <file path="C:\Users\Kalyan Goud\AndroidStudioProjects\MyApplication3\.idea\workspace.xml" timestamp="1484589008045" />
+    <file path="C:\Users\Kalyan Goud\AndroidStudioProjects\MyApplication3\MyApplication3.iml" timestamp="1484588952383" />
+    <file path="C:\Users\Kalyan Goud\AndroidStudioProjects\MyApplication3\app\app.iml" timestamp="1484588952132" />
+  </project-files>
+</conversion>
+
